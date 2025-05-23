@@ -6,11 +6,14 @@ Adiciona elementos ao final do array
 ## Método Pop
 Remove o último elemento do array
 
-## Método shift
+## Método Shift
 Remove o primeiro elemento do array
 
-## Método unshift
+## Método Unshift
 Adiciona elementos no início do array
 
 ## Método Includes
 Busca valores exatos no array
+
+## Método Join
+Para cada elemento do array adiciona um separador
