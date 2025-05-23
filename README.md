@@ -11,3 +11,6 @@ Remove o primeiro elemento do array
 
 ## Método unshift
 Adiciona elementos no início do array
+
+## Método Includes
+Busca valores exatos no array
