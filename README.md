@@ -8,3 +8,6 @@ Remove o último elemento do array
 
 ## Método shift
 Remove o primeiro elemento do array
+
+## Método unshift
+Adiciona elementos no início do array
